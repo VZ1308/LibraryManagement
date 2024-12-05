@@ -1,0 +1,44 @@
+[
+    {
+        "ID": 2,
+        "Title": "Python for Beginners",
+        "Author": "John Doe",
+        "Year": 2024,
+        "Genre": "Programming"
+    },
+    {
+        "ID": 3,
+        "Title": "Advanced Java",
+        "Author": "Jane Smith",
+        "Year": 2023,
+        "Genre": "Programming"
+    },
+    {
+        "ID": 4,
+        "Title": "Data Science 101",
+        "Author": "Alice Johnson",
+        "Year": 2022,
+        "Genre": "Data Science"
+    },
+    {
+        "ID": 5,
+        "Title": "C Advanced",
+        "Author": "Viktoria Zoranovic",
+        "Year": 2024,
+        "Genre": "Learning"
+    },
+    {
+        "ID": 6,
+        "Title": "Python 3",
+        "Author": "Gerhard Kniffel",
+        "Year": 2024,
+        "Genre": "Info"
+    },
+    {
+        "ID": 7,
+        "Title": "C# Advanced",
+        "Author": "Bill Gates",
+        "Year": 2000,
+        "Genre": "Learning"
+    }
+]
